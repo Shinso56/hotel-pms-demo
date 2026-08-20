@@ -1,0 +1,14 @@
+# The dist/ bundles are committed on purpose, so the demo can be downloaded
+# as a single file. Regenerate them with: node tools/build-standalone.js
+
+# OS cruft
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
